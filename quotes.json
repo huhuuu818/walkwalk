@@ -1,0 +1,1505 @@
+{
+  "note": "Walk Walk quote library, all lines original writing; trivia lines state verifiable public facts. Rendered in HuFont Bold (charset has no hyphen/em-dash, avoid them). categories: motivational / funny_one_liner / wholesome_meme / dad_joke / fun_fact / break_reminder. Edit freely.",
+  "quotes": [
+    {
+      "id": 1,
+      "category": "motivational",
+      "text": "Small steps still move you forward."
+    },
+    {
+      "id": 2,
+      "category": "motivational",
+      "text": "Progress beats perfection every time."
+    },
+    {
+      "id": 3,
+      "category": "motivational",
+      "text": "You can do hard things, after a quick stretch."
+    },
+    {
+      "id": 4,
+      "category": "motivational",
+      "text": "One focused minute can change your momentum."
+    },
+    {
+      "id": 5,
+      "category": "motivational",
+      "text": "Your future self appreciates this effort."
+    },
+    {
+      "id": 6,
+      "category": "motivational",
+      "text": "Done is a beautiful kind of perfect."
+    },
+    {
+      "id": 7,
+      "category": "motivational",
+      "text": "Begin again. You already know more now."
+    },
+    {
+      "id": 8,
+      "category": "motivational",
+      "text": "Tiny wins deserve tiny celebrations."
+    },
+    {
+      "id": 9,
+      "category": "motivational",
+      "text": "Make today useful, not flawless."
+    },
+    {
+      "id": 10,
+      "category": "motivational",
+      "text": "Your pace is valid. Keep going."
+    },
+    {
+      "id": 11,
+      "category": "motivational",
+      "text": "A calm mind can solve a noisy problem."
+    },
+    {
+      "id": 12,
+      "category": "motivational",
+      "text": "You are closer than your to do list suggests."
+    },
+    {
+      "id": 13,
+      "category": "motivational",
+      "text": "Choose the next right step, not every step."
+    },
+    {
+      "id": 14,
+      "category": "motivational",
+      "text": "Consistency is courage in comfortable shoes."
+    },
+    {
+      "id": 15,
+      "category": "motivational",
+      "text": "Good work grows from well rested brains."
+    },
+    {
+      "id": 16,
+      "category": "motivational",
+      "text": "Keep the goal. Adjust the route."
+    },
+    {
+      "id": 17,
+      "category": "motivational",
+      "text": "A short pause can sharpen a long effort."
+    },
+    {
+      "id": 18,
+      "category": "motivational",
+      "text": "You do not need permission to improve."
+    },
+    {
+      "id": 19,
+      "category": "motivational",
+      "text": "Momentum starts with one manageable thing."
+    },
+    {
+      "id": 20,
+      "category": "motivational",
+      "text": "Trust the work you have already done."
+    },
+    {
+      "id": 21,
+      "category": "motivational",
+      "text": "Leave room for something to go surprisingly well."
+    },
+    {
+      "id": 22,
+      "category": "motivational",
+      "text": "Your best can look different each day."
+    },
+    {
+      "id": 23,
+      "category": "motivational",
+      "text": "Keep showing up. That is where progress lives."
+    },
+    {
+      "id": 24,
+      "category": "motivational",
+      "text": "Clarity often arrives after movement."
+    },
+    {
+      "id": 25,
+      "category": "motivational",
+      "text": "Pause, reset, and return with fresh eyes."
+    },
+    {
+      "id": 26,
+      "category": "motivational",
+      "text": "A little courage goes a long way."
+    },
+    {
+      "id": 27,
+      "category": "motivational",
+      "text": "Today is still full of useful possibilities."
+    },
+    {
+      "id": 28,
+      "category": "motivational",
+      "text": "Your effort counts, even before results appear."
+    },
+    {
+      "id": 29,
+      "category": "motivational",
+      "text": "Focus on progress you can repeat."
+    },
+    {
+      "id": 30,
+      "category": "motivational",
+      "text": "Be patient with the version of you learning this."
+    },
+    {
+      "id": 31,
+      "category": "motivational",
+      "text": "The next chapter needs a rested author."
+    },
+    {
+      "id": 32,
+      "category": "motivational",
+      "text": "You have handled every Monday so far."
+    },
+    {
+      "id": 33,
+      "category": "motivational",
+      "text": "Start small enough that starting feels easy."
+    },
+    {
+      "id": 34,
+      "category": "motivational",
+      "text": "Energy is a resource, not a character trait."
+    },
+    {
+      "id": 35,
+      "category": "motivational",
+      "text": "Let curiosity be louder than doubt."
+    },
+    {
+      "id": 36,
+      "category": "motivational",
+      "text": "There is strength in taking a thoughtful pause."
+    },
+    {
+      "id": 37,
+      "category": "motivational",
+      "text": "Your ideas deserve oxygen and a quick walk."
+    },
+    {
+      "id": 38,
+      "category": "motivational",
+      "text": "A steady rhythm outlasts a frantic sprint."
+    },
+    {
+      "id": 39,
+      "category": "motivational",
+      "text": "Make space for the answer to find you."
+    },
+    {
+      "id": 40,
+      "category": "motivational",
+      "text": "You are allowed to be proud of quiet progress."
+    },
+    {
+      "id": 41,
+      "category": "motivational",
+      "text": "Hard days still contain good minutes."
+    },
+    {
+      "id": 42,
+      "category": "motivational",
+      "text": "Try again, but this time with relaxed shoulders."
+    },
+    {
+      "id": 43,
+      "category": "motivational",
+      "text": "A fresh perspective may be one lap away."
+    },
+    {
+      "id": 44,
+      "category": "motivational",
+      "text": "Your attention is valuable. Spend it kindly."
+    },
+    {
+      "id": 45,
+      "category": "motivational",
+      "text": "Every expert once searched for the basics."
+    },
+    {
+      "id": 46,
+      "category": "motivational",
+      "text": "Keep building. Bricks look small up close."
+    },
+    {
+      "id": 47,
+      "category": "motivational",
+      "text": "Rest is part of the plan, not a detour."
+    },
+    {
+      "id": 48,
+      "category": "motivational",
+      "text": "Make room for better, not merely more."
+    },
+    {
+      "id": 49,
+      "category": "motivational",
+      "text": "You can restart the day at any hour."
+    },
+    {
+      "id": 50,
+      "category": "motivational",
+      "text": "Take a breath. Your next move can be simple."
+    },
+    {
+      "id": 51,
+      "category": "funny_one_liner",
+      "text": "Your keyboard needs space. Conveniently, it has one."
+    },
+    {
+      "id": 52,
+      "category": "funny_one_liner",
+      "text": "You came, you saw, you opened seventeen tabs."
+    },
+    {
+      "id": 53,
+      "category": "funny_one_liner",
+      "text": "Today’s forecast: 100% chance of another email."
+    },
+    {
+      "id": 54,
+      "category": "funny_one_liner",
+      "text": "Your desk chair may be seeing too much of you."
+    },
+    {
+      "id": 55,
+      "category": "funny_one_liner",
+      "text": "You run on coffee, curiosity, and suspicious optimism."
+    },
+    {
+      "id": 56,
+      "category": "funny_one_liner",
+      "text": "Plot twist: the meeting could have been a stretch."
+    },
+    {
+      "id": 57,
+      "category": "funny_one_liner",
+      "text": "You have a black belt in opening new tabs."
+    },
+    {
+      "id": 58,
+      "category": "funny_one_liner",
+      "text": "Your inbox is practicing exponential growth."
+    },
+    {
+      "id": 59,
+      "category": "funny_one_liner",
+      "text": "Professional status: pretending that loading bar is exciting."
+    },
+    {
+      "id": 60,
+      "category": "funny_one_liner",
+      "text": "You and the Wi Fi are both taking things slowly."
+    },
+    {
+      "id": 61,
+      "category": "funny_one_liner",
+      "text": "Your mouse has traveled miles without leaving the desk."
+    },
+    {
+      "id": 62,
+      "category": "funny_one_liner",
+      "text": "Deadline: the motivational speaker of calendar events."
+    },
+    {
+      "id": 63,
+      "category": "funny_one_liner",
+      "text": "You put the ‘pro’ in procrastinate. Briefly."
+    },
+    {
+      "id": 64,
+      "category": "funny_one_liner",
+      "text": "If focus were a tab, you may have closed it."
+    },
+    {
+      "id": 65,
+      "category": "funny_one_liner",
+      "text": "Your calendar is an ambitious work of fiction."
+    },
+    {
+      "id": 66,
+      "category": "funny_one_liner",
+      "text": "You are multitasking: blinking and reading."
+    },
+    {
+      "id": 67,
+      "category": "funny_one_liner",
+      "text": "The printer can sense fear. Approach casually."
+    },
+    {
+      "id": 68,
+      "category": "funny_one_liner",
+      "text": "Your password is incorrect. Apparently, so is ‘incorrect.’"
+    },
+    {
+      "id": 69,
+      "category": "funny_one_liner",
+      "text": "Productivity tip: rename snacks as system updates."
+    },
+    {
+      "id": 70,
+      "category": "funny_one_liner",
+      "text": "This task is loading… emotionally."
+    },
+    {
+      "id": 71,
+      "category": "funny_one_liner",
+      "text": "You could agree, but first you both need coffee."
+    },
+    {
+      "id": 72,
+      "category": "funny_one_liner",
+      "text": "Your brain has entered low power mode."
+    },
+    {
+      "id": 73,
+      "category": "funny_one_liner",
+      "text": "Ctrl+Z is your emotional support shortcut."
+    },
+    {
+      "id": 74,
+      "category": "funny_one_liner",
+      "text": "You enjoy long walks away from reply all emails."
+    },
+    {
+      "id": 75,
+      "category": "funny_one_liner",
+      "text": "Work smarter, then stare thoughtfully out a window."
+    },
+    {
+      "id": 76,
+      "category": "funny_one_liner",
+      "text": "Your coffee deserves a performance review: exceeds expectations."
+    },
+    {
+      "id": 77,
+      "category": "funny_one_liner",
+      "text": "You are fluent in typo and conversational in spreadsheet."
+    },
+    {
+      "id": 78,
+      "category": "funny_one_liner",
+      "text": "Nothing humbles a person like an unsaved document."
+    },
+    {
+      "id": 79,
+      "category": "funny_one_liner",
+      "text": "Your five minute task has requested an extension."
+    },
+    {
+      "id": 80,
+      "category": "funny_one_liner",
+      "text": "Good news: you remembered why you entered this room."
+    },
+    {
+      "id": 81,
+      "category": "funny_one_liner",
+      "text": "You followed your heart. It led to the snack drawer."
+    },
+    {
+      "id": 82,
+      "category": "funny_one_liner",
+      "text": "Your posture just submitted a formal complaint."
+    },
+    {
+      "id": 83,
+      "category": "funny_one_liner",
+      "text": "Current mood: one software update behind."
+    },
+    {
+      "id": 84,
+      "category": "funny_one_liner",
+      "text": "You are not stuck; you are buffering creatively."
+    },
+    {
+      "id": 85,
+      "category": "funny_one_liner",
+      "text": "You and the spreadsheet have unresolved cells."
+    },
+    {
+      "id": 86,
+      "category": "funny_one_liner",
+      "text": "Coffee first. Heroics later."
+    },
+    {
+      "id": 87,
+      "category": "funny_one_liner",
+      "text": "You have reached peak chair."
+    },
+    {
+      "id": 88,
+      "category": "funny_one_liner",
+      "text": "Your to do list has started assigning you homework."
+    },
+    {
+      "id": 89,
+      "category": "funny_one_liner",
+      "text": "Please wait while you pretend to remember that shortcut."
+    },
+    {
+      "id": 90,
+      "category": "funny_one_liner",
+      "text": "The cloud is just someone else’s weather."
+    },
+    {
+      "id": 91,
+      "category": "funny_one_liner",
+      "text": "Achievement unlocked: replied without overthinking."
+    },
+    {
+      "id": 92,
+      "category": "funny_one_liner",
+      "text": "Your motivation is currently in another time zone."
+    },
+    {
+      "id": 93,
+      "category": "funny_one_liner",
+      "text": "You survived another document called Final_Final_2."
+    },
+    {
+      "id": 94,
+      "category": "funny_one_liner",
+      "text": "Today you are powered by tiny checkmarks."
+    },
+    {
+      "id": 95,
+      "category": "funny_one_liner",
+      "text": "If you feel lost, visit the nearest coffee machine."
+    },
+    {
+      "id": 96,
+      "category": "funny_one_liner",
+      "text": "You need fewer notifications and more carrier pigeons."
+    },
+    {
+      "id": 97,
+      "category": "funny_one_liner",
+      "text": "Your concentration wandered off without leaving a note."
+    },
+    {
+      "id": 98,
+      "category": "funny_one_liner",
+      "text": "You are on a seafood diet: you see snacks, you schedule a break."
+    },
+    {
+      "id": 99,
+      "category": "funny_one_liner",
+      "text": "That meeting had excellent character development."
+    },
+    {
+      "id": 100,
+      "category": "funny_one_liner",
+      "text": "Your laptop fan believes you are taking off."
+    },
+    {
+      "id": 101,
+      "category": "wholesome_meme",
+      "text": "You are doing better than your inner critic reports."
+    },
+    {
+      "id": 102,
+      "category": "wholesome_meme",
+      "text": "Reminder: you are a person, not a productivity app."
+    },
+    {
+      "id": 103,
+      "category": "wholesome_meme",
+      "text": "Your tiny victory has been noticed. Nice work."
+    },
+    {
+      "id": 104,
+      "category": "wholesome_meme",
+      "text": "Sending your brain one complimentary gold star."
+    },
+    {
+      "id": 105,
+      "category": "wholesome_meme",
+      "text": "Plot twist: you were capable all along."
+    },
+    {
+      "id": 106,
+      "category": "wholesome_meme",
+      "text": "May your coffee be warm and your meetings be short."
+    },
+    {
+      "id": 107,
+      "category": "wholesome_meme",
+      "text": "You deserve the same patience you give others."
+    },
+    {
+      "id": 108,
+      "category": "wholesome_meme",
+      "text": "Official notice: your effort is appreciated."
+    },
+    {
+      "id": 109,
+      "category": "wholesome_meme",
+      "text": "Your best today is absolutely enough."
+    },
+    {
+      "id": 110,
+      "category": "wholesome_meme",
+      "text": "Somewhere, a dog would be thrilled to see you."
+    },
+    {
+      "id": 111,
+      "category": "wholesome_meme",
+      "text": "You have big ‘figuring it out’ energy."
+    },
+    {
+      "id": 112,
+      "category": "wholesome_meme",
+      "text": "The world is better with your particular weirdness."
+    },
+    {
+      "id": 113,
+      "category": "wholesome_meme",
+      "text": "Hydrated, rested, and mildly unstoppable."
+    },
+    {
+      "id": 114,
+      "category": "wholesome_meme",
+      "text": "Behold: a hardworking human who deserves a pause."
+    },
+    {
+      "id": 115,
+      "category": "wholesome_meme",
+      "text": "Your progress has entered the chat."
+    },
+    {
+      "id": 116,
+      "category": "wholesome_meme",
+      "text": "Today’s vibe: gentle focus and emergency snacks."
+    },
+    {
+      "id": 117,
+      "category": "wholesome_meme",
+      "text": "You are someone’s reason to smile today."
+    },
+    {
+      "id": 118,
+      "category": "wholesome_meme",
+      "text": "One bad hour does not get to name the whole day."
+    },
+    {
+      "id": 119,
+      "category": "wholesome_meme",
+      "text": "Tiny reminder from the universe: unclench your jaw."
+    },
+    {
+      "id": 120,
+      "category": "wholesome_meme",
+      "text": "You are allowed to learn in public."
+    },
+    {
+      "id": 121,
+      "category": "wholesome_meme",
+      "text": "Your kindness is a quiet superpower."
+    },
+    {
+      "id": 122,
+      "category": "wholesome_meme",
+      "text": "Breaking news: you remain worthy during breaks."
+    },
+    {
+      "id": 123,
+      "category": "wholesome_meme",
+      "text": "Your brain called. It requested a scenic pause."
+    },
+    {
+      "id": 124,
+      "category": "wholesome_meme",
+      "text": "Current status: growing at a perfectly human speed."
+    },
+    {
+      "id": 125,
+      "category": "wholesome_meme",
+      "text": "A little rest looks good on you."
+    },
+    {
+      "id": 126,
+      "category": "wholesome_meme",
+      "text": "You bring something valuable that no metric can measure."
+    },
+    {
+      "id": 127,
+      "category": "wholesome_meme",
+      "text": "This is your permission slip to breathe."
+    },
+    {
+      "id": 128,
+      "category": "wholesome_meme",
+      "text": "The task can wait sixty seconds. You matter too."
+    },
+    {
+      "id": 129,
+      "category": "wholesome_meme",
+      "text": "Your calm is productive, even when it looks quiet."
+    },
+    {
+      "id": 130,
+      "category": "wholesome_meme",
+      "text": "You are not behind; you are on your own timeline."
+    },
+    {
+      "id": 131,
+      "category": "wholesome_meme",
+      "text": "May your next idea arrive wearing comfy socks."
+    },
+    {
+      "id": 132,
+      "category": "wholesome_meme",
+      "text": "A friendly reminder: your shoulders miss being relaxed."
+    },
+    {
+      "id": 133,
+      "category": "wholesome_meme",
+      "text": "Your imperfect effort still helps the team."
+    },
+    {
+      "id": 134,
+      "category": "wholesome_meme",
+      "text": "Look at you, making things happen one click at a time."
+    },
+    {
+      "id": 135,
+      "category": "wholesome_meme",
+      "text": "No rush. Even flowers have loading screens."
+    },
+    {
+      "id": 136,
+      "category": "wholesome_meme",
+      "text": "You are a limited edition. Please handle with care."
+    },
+    {
+      "id": 137,
+      "category": "wholesome_meme",
+      "text": "Your presence matters more than your output."
+    },
+    {
+      "id": 138,
+      "category": "wholesome_meme",
+      "text": "Treat yourself like a teammate you genuinely like."
+    },
+    {
+      "id": 139,
+      "category": "wholesome_meme",
+      "text": "You have survived every awkward video call so far."
+    },
+    {
+      "id": 140,
+      "category": "wholesome_meme",
+      "text": "A softer day can still be a successful day."
+    },
+    {
+      "id": 141,
+      "category": "wholesome_meme",
+      "text": "Your small acts of care are doing big work."
+    },
+    {
+      "id": 142,
+      "category": "wholesome_meme",
+      "text": "Permission granted: celebrate the almost done."
+    },
+    {
+      "id": 143,
+      "category": "wholesome_meme",
+      "text": "You make persistence look surprisingly cozy."
+    },
+    {
+      "id": 144,
+      "category": "wholesome_meme",
+      "text": "Some progress wears pajamas. It still counts."
+    },
+    {
+      "id": 145,
+      "category": "wholesome_meme",
+      "text": "You are doing a good job being a person today."
+    },
+    {
+      "id": 146,
+      "category": "wholesome_meme",
+      "text": "May your next notification be unexpectedly delightful."
+    },
+    {
+      "id": 147,
+      "category": "wholesome_meme",
+      "text": "Your inner cheerleader has excellent taste."
+    },
+    {
+      "id": 148,
+      "category": "wholesome_meme",
+      "text": "Rested you is still ambitious you."
+    },
+    {
+      "id": 149,
+      "category": "wholesome_meme",
+      "text": "Your smile is not required, but it is always welcome."
+    },
+    {
+      "id": 150,
+      "category": "wholesome_meme",
+      "text": "Keep being the kind human in the group chat."
+    },
+    {
+      "id": 151,
+      "category": "dad_joke",
+      "text": "Why did the computer rest? It had too many bytes."
+    },
+    {
+      "id": 152,
+      "category": "dad_joke",
+      "text": "Why was the calendar popular? It had lots of dates."
+    },
+    {
+      "id": 153,
+      "category": "dad_joke",
+      "text": "Tell your chair a joke. It may not stand it."
+    },
+    {
+      "id": 154,
+      "category": "dad_joke",
+      "text": "Why did the pencil pause? It needed to draw a breath."
+    },
+    {
+      "id": 155,
+      "category": "dad_joke",
+      "text": "The clock was hungry, so it went back four seconds."
+    },
+    {
+      "id": 156,
+      "category": "dad_joke",
+      "text": "Why did the coffee file a report? It got mugged."
+    },
+    {
+      "id": 157,
+      "category": "dad_joke",
+      "text": "Your math book looks sad. It has too many problems."
+    },
+    {
+      "id": 158,
+      "category": "dad_joke",
+      "text": "Why are elevators wise? They work on many levels."
+    },
+    {
+      "id": 159,
+      "category": "dad_joke",
+      "text": "The stapler is impressive. It always holds things together."
+    },
+    {
+      "id": 160,
+      "category": "dad_joke",
+      "text": "Why did the laptop wear glasses? To improve its web sight."
+    },
+    {
+      "id": 161,
+      "category": "dad_joke",
+      "text": "You tried to catch fog yesterday. You mist."
+    },
+    {
+      "id": 162,
+      "category": "dad_joke",
+      "text": "What do clouds wear under coats? Thunderwear."
+    },
+    {
+      "id": 163,
+      "category": "dad_joke",
+      "text": "Why did the tomato blush? It saw the salad dressing."
+    },
+    {
+      "id": 164,
+      "category": "dad_joke",
+      "text": "What do you call fake pasta? An impasta."
+    },
+    {
+      "id": 165,
+      "category": "dad_joke",
+      "text": "Why did the cookie visit the doctor? It felt crummy."
+    },
+    {
+      "id": 166,
+      "category": "dad_joke",
+      "text": "What has ears but cannot hear? A cornfield."
+    },
+    {
+      "id": 167,
+      "category": "dad_joke",
+      "text": "Why was six afraid of seven? Because seven eight nine."
+    },
+    {
+      "id": 168,
+      "category": "dad_joke",
+      "text": "What do you call a sleeping bull? A bulldozer."
+    },
+    {
+      "id": 169,
+      "category": "dad_joke",
+      "text": "How do trees access email? They log in."
+    },
+    {
+      "id": 170,
+      "category": "dad_joke",
+      "text": "Why did the bicycle fall over? It was two tired."
+    },
+    {
+      "id": 171,
+      "category": "dad_joke",
+      "text": "What do you call cheese that is not yours? Nacho cheese."
+    },
+    {
+      "id": 172,
+      "category": "dad_joke",
+      "text": "Why are fish smart? They live in schools."
+    },
+    {
+      "id": 173,
+      "category": "dad_joke",
+      "text": "What kind of music do balloons dislike? Pop."
+    },
+    {
+      "id": 174,
+      "category": "dad_joke",
+      "text": "Why did the scarecrow win? It was outstanding in its field."
+    },
+    {
+      "id": 175,
+      "category": "dad_joke",
+      "text": "What do you call a bear with no teeth? A gummy bear."
+    },
+    {
+      "id": 176,
+      "category": "dad_joke",
+      "text": "Why did the golfer pack extra socks? In case of a hole in one."
+    },
+    {
+      "id": 177,
+      "category": "dad_joke",
+      "text": "What did one wall say to the other? Meet you at the corner."
+    },
+    {
+      "id": 178,
+      "category": "dad_joke",
+      "text": "Why can’t your nose be twelve inches? Then it would be a foot."
+    },
+    {
+      "id": 179,
+      "category": "dad_joke",
+      "text": "What do you call a belt made of watches? A waist of time."
+    },
+    {
+      "id": 180,
+      "category": "dad_joke",
+      "text": "Why did the keyboard break up? There was no space."
+    },
+    {
+      "id": 181,
+      "category": "dad_joke",
+      "text": "What kind of tea is hard to swallow? Reality."
+    },
+    {
+      "id": 182,
+      "category": "dad_joke",
+      "text": "Why was the broom late? It swept in."
+    },
+    {
+      "id": 183,
+      "category": "dad_joke",
+      "text": "You know the joke about paper? It is tearable."
+    },
+    {
+      "id": 184,
+      "category": "dad_joke",
+      "text": "Why did the picture go to jail? It was framed."
+    },
+    {
+      "id": 185,
+      "category": "dad_joke",
+      "text": "What do you call a factory that makes okay goods? Satisfactory."
+    },
+    {
+      "id": 186,
+      "category": "dad_joke",
+      "text": "Why did the orange stop? It ran out of juice."
+    },
+    {
+      "id": 187,
+      "category": "dad_joke",
+      "text": "How does the moon cut its hair? Eclipse it."
+    },
+    {
+      "id": 188,
+      "category": "dad_joke",
+      "text": "What did the ocean say to the beach? Nothing, it waved."
+    },
+    {
+      "id": 189,
+      "category": "dad_joke",
+      "text": "Why are skeletons calm? Nothing gets under their skin."
+    },
+    {
+      "id": 190,
+      "category": "dad_joke",
+      "text": "Why did the egg hide? It was a little chicken."
+    },
+    {
+      "id": 191,
+      "category": "dad_joke",
+      "text": "What room has no doors? A mushroom."
+    },
+    {
+      "id": 192,
+      "category": "dad_joke",
+      "text": "Why do bees have sticky hair? They use honeycombs."
+    },
+    {
+      "id": 193,
+      "category": "dad_joke",
+      "text": "Why did the banana visit the doctor? It was not peeling well."
+    },
+    {
+      "id": 194,
+      "category": "dad_joke",
+      "text": "What do you call a dinosaur with a big vocabulary? A thesaurus."
+    },
+    {
+      "id": 195,
+      "category": "dad_joke",
+      "text": "What did the zero say to eight? Nice belt."
+    },
+    {
+      "id": 196,
+      "category": "dad_joke",
+      "text": "Why was the music teacher handy? She knew the right notes."
+    },
+    {
+      "id": 197,
+      "category": "dad_joke",
+      "text": "Why do seagulls fly over the sea? Over a bay, they’d be bagels."
+    },
+    {
+      "id": 198,
+      "category": "dad_joke",
+      "text": "What is brown and sticky? A stick."
+    },
+    {
+      "id": 199,
+      "category": "dad_joke",
+      "text": "Why did the phone need glasses? It lost its contacts."
+    },
+    {
+      "id": 200,
+      "category": "dad_joke",
+      "text": "Why was the belt arrested? It held up a pair of pants."
+    },
+    {
+      "id": 201,
+      "category": "fun_fact",
+      "text": "Octopuses have three hearts and blue blood."
+    },
+    {
+      "id": 202,
+      "category": "fun_fact",
+      "text": "Bananas are berries, but strawberries are not."
+    },
+    {
+      "id": 203,
+      "category": "fun_fact",
+      "text": "A group of flamingos is called a flamboyance."
+    },
+    {
+      "id": 204,
+      "category": "fun_fact",
+      "text": "Wombat droppings are cube shaped."
+    },
+    {
+      "id": 205,
+      "category": "fun_fact",
+      "text": "Sea otters may hold hands while sleeping so they do not drift apart."
+    },
+    {
+      "id": 206,
+      "category": "fun_fact",
+      "text": "Honey can remain edible for thousands of years when sealed."
+    },
+    {
+      "id": 207,
+      "category": "fun_fact",
+      "text": "Butterflies taste with sensors on their feet."
+    },
+    {
+      "id": 208,
+      "category": "fun_fact",
+      "text": "A snail can nap for years during harsh conditions."
+    },
+    {
+      "id": 209,
+      "category": "fun_fact",
+      "text": "Crows can recognize and remember human faces."
+    },
+    {
+      "id": 210,
+      "category": "fun_fact",
+      "text": "The Eiffel Tower grows slightly taller in hot weather."
+    },
+    {
+      "id": 211,
+      "category": "fun_fact",
+      "text": "Sharks existed before trees."
+    },
+    {
+      "id": 212,
+      "category": "fun_fact",
+      "text": "A shrimp’s heart is located in its head region."
+    },
+    {
+      "id": 213,
+      "category": "fun_fact",
+      "text": "Koala fingerprints look remarkably like human fingerprints."
+    },
+    {
+      "id": 214,
+      "category": "fun_fact",
+      "text": "Some turtles can breathe through their rear ends."
+    },
+    {
+      "id": 215,
+      "category": "fun_fact",
+      "text": "The dots above certain lowercase letters are called tittles."
+    },
+    {
+      "id": 216,
+      "category": "fun_fact",
+      "text": "Ravens can mimic human speech."
+    },
+    {
+      "id": 217,
+      "category": "fun_fact",
+      "text": "A day on Venus is longer than its year."
+    },
+    {
+      "id": 218,
+      "category": "fun_fact",
+      "text": "Goats have rectangular pupils."
+    },
+    {
+      "id": 219,
+      "category": "fun_fact",
+      "text": "The inventor of the Pringles can had some ashes buried in one."
+    },
+    {
+      "id": 220,
+      "category": "fun_fact",
+      "text": "Cats cannot taste sweetness."
+    },
+    {
+      "id": 221,
+      "category": "fun_fact",
+      "text": "An ostrich’s eye is bigger than its brain."
+    },
+    {
+      "id": 222,
+      "category": "fun_fact",
+      "text": "Dolphins use unique whistles like names."
+    },
+    {
+      "id": 223,
+      "category": "fun_fact",
+      "text": "Scotland’s national animal is the unicorn."
+    },
+    {
+      "id": 224,
+      "category": "fun_fact",
+      "text": "A cloud can weigh more than a million pounds."
+    },
+    {
+      "id": 225,
+      "category": "fun_fact",
+      "text": "Sloths can hold their breath longer than dolphins."
+    },
+    {
+      "id": 226,
+      "category": "fun_fact",
+      "text": "A group of crows is called a murder."
+    },
+    {
+      "id": 227,
+      "category": "fun_fact",
+      "text": "Pineapples take roughly two years to grow."
+    },
+    {
+      "id": 228,
+      "category": "fun_fact",
+      "text": "An axolotl can regrow parts of its heart and brain."
+    },
+    {
+      "id": 229,
+      "category": "fun_fact",
+      "text": "The tiny pocket on jeans was designed for a pocket watch."
+    },
+    {
+      "id": 230,
+      "category": "fun_fact",
+      "text": "Penguins propose with pebbles, or at least use them in courtship."
+    },
+    {
+      "id": 231,
+      "category": "fun_fact",
+      "text": "Some frogs can freeze and thaw back to life."
+    },
+    {
+      "id": 232,
+      "category": "fun_fact",
+      "text": "The moon has moonquakes."
+    },
+    {
+      "id": 233,
+      "category": "fun_fact",
+      "text": "Elephants can identify themselves in a mirror."
+    },
+    {
+      "id": 234,
+      "category": "fun_fact",
+      "text": "A group of porcupines is called a prickle."
+    },
+    {
+      "id": 235,
+      "category": "fun_fact",
+      "text": "Bamboo can grow more than 90 centimeters in one day."
+    },
+    {
+      "id": 236,
+      "category": "fun_fact",
+      "text": "Some metals are so reactive they explode in water."
+    },
+    {
+      "id": 237,
+      "category": "fun_fact",
+      "text": "The shortest war on record lasted less than an hour."
+    },
+    {
+      "id": 238,
+      "category": "fun_fact",
+      "text": "Mantis shrimp can see types of light humans cannot."
+    },
+    {
+      "id": 239,
+      "category": "fun_fact",
+      "text": "A jiffy is a real unit used differently across sciences."
+    },
+    {
+      "id": 240,
+      "category": "fun_fact",
+      "text": "Earth has more trees than the Milky Way has stars."
+    },
+    {
+      "id": 241,
+      "category": "fun_fact",
+      "text": "Polar bear skin is black beneath translucent fur."
+    },
+    {
+      "id": 242,
+      "category": "fun_fact",
+      "text": "Bees can learn to distinguish human faces."
+    },
+    {
+      "id": 243,
+      "category": "fun_fact",
+      "text": "The smell after rain is called petrichor."
+    },
+    {
+      "id": 244,
+      "category": "fun_fact",
+      "text": "Rats laugh at frequencies too high for humans to hear."
+    },
+    {
+      "id": 245,
+      "category": "fun_fact",
+      "text": "A group of pugs is called a grumble."
+    },
+    {
+      "id": 246,
+      "category": "fun_fact",
+      "text": "Woodpeckers wrap their tongues around their skulls."
+    },
+    {
+      "id": 247,
+      "category": "fun_fact",
+      "text": "Saturn would float in water if you had a tub big enough."
+    },
+    {
+      "id": 248,
+      "category": "fun_fact",
+      "text": "Dragonflies can fly backward."
+    },
+    {
+      "id": 249,
+      "category": "fun_fact",
+      "text": "The fingerprints of a koala are unique to each individual."
+    },
+    {
+      "id": 250,
+      "category": "fun_fact",
+      "text": "Oxford University is older than the Aztec Empire."
+    },
+    {
+      "id": 251,
+      "category": "break_reminder",
+      "text": "Stand up and give gravity a new assignment."
+    },
+    {
+      "id": 252,
+      "category": "break_reminder",
+      "text": "Stretch your arms like you just finished a tiny marathon."
+    },
+    {
+      "id": 253,
+      "category": "break_reminder",
+      "text": "Water break: your brain is a thirsty houseplant."
+    },
+    {
+      "id": 254,
+      "category": "break_reminder",
+      "text": "Look away from the screen and find the farthest thing you can see."
+    },
+    {
+      "id": 255,
+      "category": "break_reminder",
+      "text": "Roll your shoulders back. They have been carrying the plot."
+    },
+    {
+      "id": 256,
+      "category": "break_reminder",
+      "text": "Take ten slow steps. Your ideas can come too."
+    },
+    {
+      "id": 257,
+      "category": "break_reminder",
+      "text": "Blink slowly a few times. Your eyes earned it."
+    },
+    {
+      "id": 258,
+      "category": "break_reminder",
+      "text": "Unclench your jaw and let your tongue relax."
+    },
+    {
+      "id": 259,
+      "category": "break_reminder",
+      "text": "Refill your water and your patience."
+    },
+    {
+      "id": 260,
+      "category": "break_reminder",
+      "text": "Stand tall for a moment. Your spine says thanks."
+    },
+    {
+      "id": 261,
+      "category": "break_reminder",
+      "text": "Take one minute to breathe without multitasking."
+    },
+    {
+      "id": 262,
+      "category": "break_reminder",
+      "text": "Rest your eyes on something green, distant, or delightfully ordinary."
+    },
+    {
+      "id": 263,
+      "category": "break_reminder",
+      "text": "Shake out your hands. Release the keyboard drama."
+    },
+    {
+      "id": 264,
+      "category": "break_reminder",
+      "text": "Walk to a window and collect one fresh thought."
+    },
+    {
+      "id": 265,
+      "category": "break_reminder",
+      "text": "Lift your heels, lower them slowly, and wake up your calves."
+    },
+    {
+      "id": 266,
+      "category": "break_reminder",
+      "text": "Sip some water. Future you sent the reminder."
+    },
+    {
+      "id": 267,
+      "category": "break_reminder",
+      "text": "Turn your head gently left and right. No owl impressions required."
+    },
+    {
+      "id": 268,
+      "category": "break_reminder",
+      "text": "Stand, stretch, and briefly become a capital letter Y."
+    },
+    {
+      "id": 269,
+      "category": "break_reminder",
+      "text": "Let your eyes focus beyond the screen for twenty seconds."
+    },
+    {
+      "id": 270,
+      "category": "break_reminder",
+      "text": "Drop your shoulders. They do not belong near your ears."
+    },
+    {
+      "id": 271,
+      "category": "break_reminder",
+      "text": "Take a lap around the room. Victory music is optional."
+    },
+    {
+      "id": 272,
+      "category": "break_reminder",
+      "text": "Open your hands wide, then relax them."
+    },
+    {
+      "id": 273,
+      "category": "break_reminder",
+      "text": "Breathe in slowly. Breathe out even more slowly."
+    },
+    {
+      "id": 274,
+      "category": "break_reminder",
+      "text": "Check your posture with kindness, not judgment."
+    },
+    {
+      "id": 275,
+      "category": "break_reminder",
+      "text": "Your screen will wait. Go say hello to circulation."
+    },
+    {
+      "id": 276,
+      "category": "break_reminder",
+      "text": "Stand up, look around, and reset your horizon."
+    },
+    {
+      "id": 277,
+      "category": "break_reminder",
+      "text": "Give your wrists three gentle circles in each direction."
+    },
+    {
+      "id": 278,
+      "category": "break_reminder",
+      "text": "Take a water break before your next click."
+    },
+    {
+      "id": 279,
+      "category": "break_reminder",
+      "text": "Look out a window and notice three things."
+    },
+    {
+      "id": 280,
+      "category": "break_reminder",
+      "text": "Reach toward the ceiling. Your inbox cannot follow you there."
+    },
+    {
+      "id": 281,
+      "category": "break_reminder",
+      "text": "Relax your face. Yes, even that determined eyebrow."
+    },
+    {
+      "id": 282,
+      "category": "break_reminder",
+      "text": "Walk for sixty seconds and let your brain sort the files."
+    },
+    {
+      "id": 283,
+      "category": "break_reminder",
+      "text": "Plant both feet on the floor and take one steady breath."
+    },
+    {
+      "id": 284,
+      "category": "break_reminder",
+      "text": "Gently stretch your neck. Keep the movement small and easy."
+    },
+    {
+      "id": 285,
+      "category": "break_reminder",
+      "text": "Hydration checkpoint: take three refreshing sips."
+    },
+    {
+      "id": 286,
+      "category": "break_reminder",
+      "text": "Close your eyes for a few calm breaths."
+    },
+    {
+      "id": 287,
+      "category": "break_reminder",
+      "text": "Stand up and wiggle. Professional dignity will recover."
+    },
+    {
+      "id": 288,
+      "category": "break_reminder",
+      "text": "Move your ankles in circles under the desk."
+    },
+    {
+      "id": 289,
+      "category": "break_reminder",
+      "text": "Step away for a moment. Distance can debug thoughts."
+    },
+    {
+      "id": 290,
+      "category": "break_reminder",
+      "text": "Stretch gently and stop if anything feels uncomfortable."
+    },
+    {
+      "id": 291,
+      "category": "break_reminder",
+      "text": "Give your eyes a mini vacation from pixels."
+    },
+    {
+      "id": 292,
+      "category": "break_reminder",
+      "text": "Take a short walk and notice how your feet meet the floor."
+    },
+    {
+      "id": 293,
+      "category": "break_reminder",
+      "text": "Sit back, breathe, and let the chair support you."
+    },
+    {
+      "id": 294,
+      "category": "break_reminder",
+      "text": "Straighten up softly, no military posture required."
+    },
+    {
+      "id": 295,
+      "category": "break_reminder",
+      "text": "Stretch your fingers as if playing an invisible piano."
+    },
+    {
+      "id": 296,
+      "category": "break_reminder",
+      "text": "Pause the pixels. Find a real world color you like."
+    },
+    {
+      "id": 297,
+      "category": "break_reminder",
+      "text": "Stand for one minute while your thoughts catch up."
+    },
+    {
+      "id": 298,
+      "category": "break_reminder",
+      "text": "Take a breath deep enough to surprise your shoulders."
+    },
+    {
+      "id": 299,
+      "category": "break_reminder",
+      "text": "Walk to refill your water. Two healthy habits, one trip."
+    },
+    {
+      "id": 300,
+      "category": "break_reminder",
+      "text": "You have been still long enough. Time for a gentle reset."
+    }
+  ]
+}

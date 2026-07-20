@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# PyInstaller build output (built locally, never committed)
+/build/
+/dist/
+/.build-venv/
+*.spec
